@@ -13,4 +13,5 @@ dependencies:
   - pyvista
   - geopandas
   - ipyvtklink
+  - opencv
 prefix: /opt/homebrew/Caskroom/miniforge/base/envs/silvx-demos
