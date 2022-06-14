@@ -13,5 +13,5 @@ dependencies:
   - pyvista
   - geopandas
   - ipyvtklink
-  - mesa-libgl-cos6-x86_64
+  - ipygany
 prefix: /opt/homebrew/Caskroom/miniforge/base/envs/silvx-demos
